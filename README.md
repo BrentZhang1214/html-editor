@@ -9,6 +9,8 @@
 
 A visual HTML editor that works like editing a Word document. No installation required - just open in browser and start editing!
 
+**Purpose**: This editor is primarily designed for making simple content and format adjustments to AI-generated HTML files. It provides an easy-to-use interface for quick edits without needing to dive into raw HTML code.
+
 ### Features
 
 - **Visual Editing**: Edit HTML content visually like a Word document
@@ -38,6 +40,8 @@ A visual HTML editor that works like editing a Word document. No installation re
 ## 中文
 
 一个像编辑Word文档一样的HTML可视化编辑器。无需安装，浏览器直接打开即可使用！
+
+**用途说明**：本编辑器主要针对 AI 生成的 HTML 文件进行简单的内容和格式调整。提供了直观易用的界面，无需深入 HTML 代码即可快速编辑修改。
 
 ### 功能特点
 
